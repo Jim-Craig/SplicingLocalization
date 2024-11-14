@@ -4,4 +4,7 @@ Every jpeg image has a compression factor that is uniform across the image, But 
 compression ratio different form the rest of the image.
 
 We'd have a CNN model that takes in the image and generated the outputs the regions that it predicts to have been tampered with. The model being used here is made on top of an image segmentation model called InceptionV3. We preproces the images input using the resnet 
-
+Sample Image 
+![image](https://github.com/user-attachments/assets/4de15d57-8551-4c86-b1d4-4f53d4bea28d)
+Result of the model
+![image](https://github.com/user-attachments/assets/c719af97-60c5-4264-9ff5-3158dd5c2578)
