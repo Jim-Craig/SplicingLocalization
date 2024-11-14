@@ -10,7 +10,9 @@ Sample Image
 ![image](https://github.com/user-attachments/assets/4de15d57-8551-4c86-b1d4-4f53d4bea28d)
 
 
-Result of the model
+Actual portion of the image that has been tampered with: 
 
 ![image](https://github.com/user-attachments/assets/c719af97-60c5-4264-9ff5-3158dd5c2578)
 
+Result of the model
+![image](https://github.com/user-attachments/assets/583002c1-ee96-4c1c-af8b-fdd6aadf7aca)
